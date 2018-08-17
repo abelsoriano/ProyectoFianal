@@ -1,0 +1,14 @@
+C:\Users\PercySanchez\documents\visual studio 2010\Projects\Reproductor\Reproductor\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\PercySanchez\documents\visual studio 2010\Projects\Reproductor\Reproductor\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\PercySanchez\documents\visual studio 2010\Projects\Reproductor\Reproductor\obj\x86\Debug\Reproductor.vbproj.ResolveComReference.cache
+C:\Users\PercySanchez\documents\visual studio 2010\Projects\Reproductor\Reproductor\obj\x86\Debug\Reproductor.Form1.resources
+C:\Users\PercySanchez\documents\visual studio 2010\Projects\Reproductor\Reproductor\obj\x86\Debug\Reproductor.Resources.resources
+C:\Users\PercySanchez\documents\visual studio 2010\Projects\Reproductor\Reproductor\obj\x86\Debug\Reproductor.vbproj.GenerateResource.Cache
+C:\Users\PercySanchez\documents\visual studio 2010\Projects\Reproductor\Reproductor\bin\Debug\Reproductor.exe
+C:\Users\PercySanchez\documents\visual studio 2010\Projects\Reproductor\Reproductor\bin\Debug\Reproductor.pdb
+C:\Users\PercySanchez\documents\visual studio 2010\Projects\Reproductor\Reproductor\bin\Debug\Reproductor.xml
+C:\Users\PercySanchez\documents\visual studio 2010\Projects\Reproductor\Reproductor\bin\Debug\Interop.WMPLib.dll
+C:\Users\PercySanchez\documents\visual studio 2010\Projects\Reproductor\Reproductor\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\PercySanchez\documents\visual studio 2010\Projects\Reproductor\Reproductor\obj\x86\Debug\Reproductor.exe
+C:\Users\PercySanchez\documents\visual studio 2010\Projects\Reproductor\Reproductor\obj\x86\Debug\Reproductor.xml
+C:\Users\PercySanchez\documents\visual studio 2010\Projects\Reproductor\Reproductor\obj\x86\Debug\Reproductor.pdb
